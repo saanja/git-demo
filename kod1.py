@@ -1,1 +1,1 @@
-print('poruka')
+print('nova poruka')
